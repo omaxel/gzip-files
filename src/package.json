@@ -4,7 +4,7 @@
   "description": "Create gz files for static web-apps",
   "main": "index.js",
   "dependencies": {
-    "glob": "^7.1.6",
+    "glob": "^13.0.6",
     "gzipme": "^0.1.2",
     "yargs": "^15.4.0"
   },
